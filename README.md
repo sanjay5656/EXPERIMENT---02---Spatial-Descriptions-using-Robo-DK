@@ -10,7 +10,7 @@ Select File➔ Open.
 
 ![image](https://user-images.githubusercontent.com/113594316/190379141-f3c33120-246f-4bf2-9ff1-9788867b9e78.png)
 
-Select open library online ➔ Select Brand ➔ Filter Doosan Robotics ➔ Choolse M1013 Model
+Select open library online ➔ Select Brand ➔ Filter Doosan Robotics ➔ Choolse M1013 Mode
 
 ![image](https://user-images.githubusercontent.com/113594316/190379488-e53f2fd4-e085-4052-9df4-ca4f6c9635e8.png)
 
